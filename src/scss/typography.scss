@@ -1,0 +1,50 @@
+// FONT FAMILY
+@font-face{
+    font-family:IBM Plex Sans;
+    src:url("../assets/IBMPlexSans-Regular.ttf")
+}
+.font__ibmplexsans{
+    font-family: "IBM Plex Sans";
+}
+// FONT FAMILY
+
+// FONT SIZE
+.size__title{
+    font-size:32px;
+}
+.size__paragraph{
+    font-size:16px;
+    line-height:22px;
+}
+// FONT SIZE
+
+// FONT COLOR
+.textcolor__white{
+    color:#ffffff;
+}
+// FONT COLOR
+
+// FONT ALIGN
+.text__center{
+    text-align: center;
+}
+.text__right{
+    text-align: right;
+}
+// FONT ALIGN
+
+//FONT SPACING
+p{margin:0;}
+//FONT SPACING
+
+// FONT WEIGHT
+.font__light{
+    font-weight: 100;
+}
+.font__medium{
+    font-weight: 300;
+}
+.font__bold{
+    font-weight: 600;
+}
+// FONT WEIGHT

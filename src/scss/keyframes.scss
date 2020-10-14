@@ -1,0 +1,23 @@
+@keyframes cursor{
+    0%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+}
+
+@keyframes profile__animation{
+    0%{
+        width:0;
+    }
+    25%{
+        width:50%;
+    }
+    50%{
+        width:40%;
+    }
+    100%{
+        width:100%;
+    }
+}

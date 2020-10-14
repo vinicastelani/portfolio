@@ -1,0 +1,35 @@
+.page__section{
+    height: 100%;
+}
+.container{
+    max-width: 1440px;
+    height: 100%;
+    margin:0 auto;
+}
+@media screen and (max-width:1440px){
+    .container{
+        margin:0 32px;
+    }
+}
+
+.flex__row{
+    display: flex;
+    flex-flow: row;
+}
+.flex__column{
+    display: flex;
+    flex-flow: column;
+}
+
+.align__center{
+    justify-content: center;
+    align-items: center;
+}
+
+.padding__32{
+    padding:32px;
+}
+
+.mgb__32{
+    margin-bottom:32px;
+}
